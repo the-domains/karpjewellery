@@ -1,0 +1,34 @@
+name: karpjewellery
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.5550035934429616
+color:
+  lightness: 0.1941130420179369
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  saturation: 0.07321665623998658
+  brandStrength: 0.8298057280084598
+  rhythmicContrast: 0.3426989375945877
+content_rating:
+  adult: false
+typography_spectrum: 0.5706295005511492
+opengraph: {}
+title: 'jewelry '
